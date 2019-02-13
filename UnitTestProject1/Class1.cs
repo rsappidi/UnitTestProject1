@@ -9,5 +9,7 @@ namespace UnitTestProject1
     class Class1
     {
         // Test1
+
+        //Test2
     }
 }
